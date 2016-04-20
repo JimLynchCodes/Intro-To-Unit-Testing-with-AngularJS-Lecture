@@ -1,4 +1,4 @@
-# Intro-To-Unit-Testing-with-AngularJS
+# Intro To Unit Testing with AngularJS Lecture
 This repository has the files and slides for Jim Lynch's lecture with the same title.
 
 The slides from this talk are available here: http://www.slideshare.net/JimLynch22/intro-to-unit-testing-in-angularjs
