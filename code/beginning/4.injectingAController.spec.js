@@ -1,6 +1,3 @@
-/**
- * Created by jim on 4/24/16.
- */
 (function() {
     'use strict';
     var $controller;
@@ -10,7 +7,7 @@
         $controller = _$controller_;
     }));
 
-    describe('describeWithAnIt',function() {
+    describe('injecting a controller.',function() {
 
         it('should do something.', function() {
 

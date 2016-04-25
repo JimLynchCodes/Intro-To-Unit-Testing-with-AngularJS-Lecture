@@ -3,7 +3,7 @@
 
     beforeEach(module('YOUR_MODULE'));
 
-    describe('describeWithAnIt',function() {
+    describe('describe with an it and beforeEach.',function() {
 
         it('should do something.', function() {
 

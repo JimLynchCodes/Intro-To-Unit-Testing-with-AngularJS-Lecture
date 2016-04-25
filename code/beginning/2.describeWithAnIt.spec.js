@@ -1,7 +1,7 @@
 (function() {
     'use strict';
 
-    describe('describeWithAnIt',function() {
+    describe('describe with an it.',function() {
 
         it('should do something.', function() {
 

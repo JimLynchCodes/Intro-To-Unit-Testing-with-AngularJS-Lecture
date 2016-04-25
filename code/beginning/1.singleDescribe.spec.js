@@ -1,7 +1,7 @@
 (function() {
     'use strict';
 
-    describe('sinleDescribe',function() {
+    describe('single describe', function() {
 
     })
 
