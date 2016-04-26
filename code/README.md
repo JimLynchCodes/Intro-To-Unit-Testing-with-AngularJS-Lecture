@@ -12,7 +12,7 @@ This folder contains the bare-bones skeleton for a unit test. When you create a 
 
 ### Test Runner Sample
 
-This is a fully built out project (based on the yeoman generator [_Gulp-Angular_]) (https://github.com/Swiip/generator-gulp-angular) ready for you to dig in and start running tests. Here are the steps to get it up and running:
+This is a fully built out project (based on the yeoman generator [_Gulp-Angular_] (https://github.com/Swiip/generator-gulp-angular)) ready for you to dig in and start running tests. Here are the steps to get it up and running:
 
 1. from command line, cd into the 'test-runner-example' directory.
 
